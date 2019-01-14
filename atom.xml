@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://HAPPYoDEER.github.io/"/>
-  <updated>2018-04-01T08:18:35.420Z</updated>
+  <updated>2018-07-24T03:16:01.159Z</updated>
   <id>http://HAPPYoDEER.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网络知识</title>
+    <link href="http://HAPPYoDEER.github.io/2018/07/24/%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/"/>
+    <id>http://HAPPYoDEER.github.io/2018/07/24/网络知识/</id>
+    <published>2018-07-24T03:16:01.000Z</published>
+    <updated>2018-07-24T03:16:01.159Z</updated>
+    
+    <content type="html"><![CDATA[<p>###网络知识笔记</p><p>查看ip：<br>-window ipconfig<br>-linux ifconfig/ip addr</p><p>网络操作工具：<br>-nettools:通过procfs(proc)和ioctl系统调用去访问和改变内核网络配置<br>-iproute2:通过netlink套接字接口与内核通信</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;###网络知识笔记&lt;/p&gt;
+&lt;p&gt;查看ip：&lt;br&gt;-window ipconfig&lt;br&gt;-linux ifconfig/ip addr&lt;/p&gt;
+&lt;p&gt;网络操作工具：&lt;br&gt;-nettools:通过procfs(proc)和ioctl系统调用去访问和改变内核网络配置&lt;br
+      
+    
+    </summary>
+    
+    
+      <category term="ip linux windows cidr" scheme="http://HAPPYoDEER.github.io/tags/ip-linux-windows-cidr/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
