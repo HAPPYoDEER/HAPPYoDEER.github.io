@@ -5,10 +5,10 @@
     
     <entry>
       <title>网络知识</title>
-      <link href="/2018/07/24/%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/"/>
-      <url>/2018/07/24/%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</url>
+      <link href="/2018/07/24/%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0...)/"/>
+      <url>/2018/07/24/%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0...)/</url>
       
-        <content type="html"><![CDATA[<h3 id="网络知识笔记"><a href="#网络知识笔记" class="headerlink" title="网络知识笔记"></a>网络知识笔记</h3><h2 id="查看ip："><a href="#查看ip：" class="headerlink" title="查看ip："></a>查看ip：</h2><p>window ipconfig</p><h2 id="linux-ifconfig-ip-addr"><a href="#linux-ifconfig-ip-addr" class="headerlink" title="linux ifconfig/ip addr"></a>linux ifconfig/ip addr</h2><h2 id="网络操作工具："><a href="#网络操作工具：" class="headerlink" title="网络操作工具："></a>网络操作工具：</h2><p>nettools:通过procfs(proc)和ioctl系统调用去访问和改变内核网络配置</p><h2 id="iproute2-通过netlink套接字接口与内核通信"><a href="#iproute2-通过netlink套接字接口与内核通信" class="headerlink" title="iproute2:通过netlink套接字接口与内核通信"></a>iproute2:通过netlink套接字接口与内核通信</h2>]]></content>
+        <content type="html"><![CDATA[<h3 id="网络知识笔记"><a href="#网络知识笔记" class="headerlink" title="网络知识笔记"></a>网络知识笔记</h3><h4 id="查看ip："><a href="#查看ip：" class="headerlink" title="查看ip："></a>查看ip：</h4><p>window <code>ipconfig</code><br>linux <code>ifconfig/ip addr</code></p><h4 id="网络操作工具："><a href="#网络操作工具：" class="headerlink" title="网络操作工具："></a>网络操作工具：</h4><p><code>nettools</code>:通过<code>procfs(proc)</code>和<code>ioctl</code>系统调用去访问和改变内核网络配置<br><code>iproute2</code>:通过<code>netlink</code>套接字接口与内核通信</p>]]></content>
       
       
       
@@ -23,17 +23,6 @@
     
   
   
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="是这样写吗"><a href="#是这样写吗" class="headerlink" title="是这样写吗"></a>是这样写吗</h1>]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -53,6 +42,17 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="是这样写吗"><a href="#是这样写吗" class="headerlink" title="是这样写吗"></a>是这样写吗</h1>]]></content>
       
     </entry>
     

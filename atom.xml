@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://HAPPYoDEER.github.io/"/>
-  <updated>2019-01-14T14:51:25.930Z</updated>
+  <updated>2019-01-14T15:05:41.422Z</updated>
   <id>http://HAPPYoDEER.github.io/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>网络知识</title>
-    <link href="http://HAPPYoDEER.github.io/2018/07/24/%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/"/>
-    <id>http://HAPPYoDEER.github.io/2018/07/24/网络知识/</id>
+    <link href="http://HAPPYoDEER.github.io/2018/07/24/%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0...)/"/>
+    <id>http://HAPPYoDEER.github.io/2018/07/24/网络知识(持续更新...)/</id>
     <published>2018-07-24T03:16:01.000Z</published>
-    <updated>2019-01-14T14:51:25.930Z</updated>
+    <updated>2019-01-14T15:05:41.422Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="网络知识笔记"><a href="#网络知识笔记" class="headerlink" title="网络知识笔记"></a>网络知识笔记</h3><h2 id="查看ip："><a href="#查看ip：" class="headerlink" title="查看ip："></a>查看ip：</h2><p>window ipconfig</p><h2 id="linux-ifconfig-ip-addr"><a href="#linux-ifconfig-ip-addr" class="headerlink" title="linux ifconfig/ip addr"></a>linux ifconfig/ip addr</h2><h2 id="网络操作工具："><a href="#网络操作工具：" class="headerlink" title="网络操作工具："></a>网络操作工具：</h2><p>nettools:通过procfs(proc)和ioctl系统调用去访问和改变内核网络配置</p><h2 id="iproute2-通过netlink套接字接口与内核通信"><a href="#iproute2-通过netlink套接字接口与内核通信" class="headerlink" title="iproute2:通过netlink套接字接口与内核通信"></a>iproute2:通过netlink套接字接口与内核通信</h2>]]></content>
+    <content type="html"><![CDATA[<h3 id="网络知识笔记"><a href="#网络知识笔记" class="headerlink" title="网络知识笔记"></a>网络知识笔记</h3><h4 id="查看ip："><a href="#查看ip：" class="headerlink" title="查看ip："></a>查看ip：</h4><p>window <code>ipconfig</code><br>linux <code>ifconfig/ip addr</code></p><h4 id="网络操作工具："><a href="#网络操作工具：" class="headerlink" title="网络操作工具："></a>网络操作工具：</h4><p><code>nettools</code>:通过<code>procfs(proc)</code>和<code>ioctl</code>系统调用去访问和改变内核网络配置<br><code>iproute2</code>:通过<code>netlink</code>套接字接口与内核通信</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;网络知识笔记&quot;&gt;&lt;a href=&quot;#网络知识笔记&quot; class=&quot;headerlink&quot; title=&quot;网络知识笔记&quot;&gt;&lt;/a&gt;网络知识笔记&lt;/h3&gt;&lt;h2 id=&quot;查看ip：&quot;&gt;&lt;a href=&quot;#查看ip：&quot; class=&quot;headerlink&quot; title=
+        &lt;h3 id=&quot;网络知识笔记&quot;&gt;&lt;a href=&quot;#网络知识笔记&quot; class=&quot;headerlink&quot; title=&quot;网络知识笔记&quot;&gt;&lt;/a&gt;网络知识笔记&lt;/h3&gt;&lt;h4 id=&quot;查看ip：&quot;&gt;&lt;a href=&quot;#查看ip：&quot; class=&quot;headerlink&quot; title=
       
     
     </summary>
